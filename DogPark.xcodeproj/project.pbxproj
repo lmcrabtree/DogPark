@@ -18,6 +18,11 @@
 		5EB87D4216EBD2CD005E3700 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EB87D4116EBD2CD005E3700 /* Default-568h@2x.png */; };
 		5EB87D4516EBD2CD005E3700 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5EB87D4316EBD2CD005E3700 /* MainStoryboard.storyboard */; };
 		5EB87D4816EBD2CD005E3700 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EB87D4716EBD2CD005E3700 /* ViewController.m */; };
+		5EB87D4F16EBD561005E3700 /* collie.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5EB87D4E16EBD561005E3700 /* collie.jpeg */; };
+		5EB87D5116EBDC5B005E3700 /* 12888122-st-bernard-dog-with-keg-ready-for-rescue-operation.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5EB87D5016EBDC5B005E3700 /* 12888122-st-bernard-dog-with-keg-ready-for-rescue-operation.jpg */; };
+		5EB87D5316EBDCC1005E3700 /* poodle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5EB87D5216EBDCC1005E3700 /* poodle.jpg */; };
+		5EB87D5516EBE434005E3700 /* mail.google.com.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EB87D5416EBE434005E3700 /* mail.google.com.png */; };
+		5EB87D5716EBE454005E3700 /* mail.google.com2.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EB87D5616EBE454005E3700 /* mail.google.com2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +42,11 @@
 		5EB87D4416EBD2CD005E3700 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		5EB87D4616EBD2CD005E3700 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		5EB87D4716EBD2CD005E3700 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		5EB87D4E16EBD561005E3700 /* collie.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = collie.jpeg; sourceTree = "<group>"; };
+		5EB87D5016EBDC5B005E3700 /* 12888122-st-bernard-dog-with-keg-ready-for-rescue-operation.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "12888122-st-bernard-dog-with-keg-ready-for-rescue-operation.jpg"; sourceTree = "<group>"; };
+		5EB87D5216EBDCC1005E3700 /* poodle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = poodle.jpg; sourceTree = "<group>"; };
+		5EB87D5416EBE434005E3700 /* mail.google.com.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mail.google.com.png; sourceTree = "<group>"; };
+		5EB87D5616EBE454005E3700 /* mail.google.com2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mail.google.com2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +66,8 @@
 		5EB87D1F16EBD2CD005E3700 = {
 			isa = PBXGroup;
 			children = (
+				5EB87D5616EBE454005E3700 /* mail.google.com2.png */,
+				5EB87D5416EBE434005E3700 /* mail.google.com.png */,
 				5EB87D3116EBD2CD005E3700 /* DogPark */,
 				5EB87D2A16EBD2CD005E3700 /* Frameworks */,
 				5EB87D2916EBD2CD005E3700 /* Products */,
@@ -96,6 +108,9 @@
 		5EB87D3216EBD2CD005E3700 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				5EB87D5016EBDC5B005E3700 /* 12888122-st-bernard-dog-with-keg-ready-for-rescue-operation.jpg */,
+				5EB87D4E16EBD561005E3700 /* collie.jpeg */,
+				5EB87D5216EBDCC1005E3700 /* poodle.jpg */,
 				5EB87D3316EBD2CD005E3700 /* DogPark-Info.plist */,
 				5EB87D3416EBD2CD005E3700 /* InfoPlist.strings */,
 				5EB87D3716EBD2CD005E3700 /* main.m */,
@@ -163,6 +178,11 @@
 				5EB87D4016EBD2CD005E3700 /* Default@2x.png in Resources */,
 				5EB87D4216EBD2CD005E3700 /* Default-568h@2x.png in Resources */,
 				5EB87D4516EBD2CD005E3700 /* MainStoryboard.storyboard in Resources */,
+				5EB87D4F16EBD561005E3700 /* collie.jpeg in Resources */,
+				5EB87D5116EBDC5B005E3700 /* 12888122-st-bernard-dog-with-keg-ready-for-rescue-operation.jpg in Resources */,
+				5EB87D5316EBDCC1005E3700 /* poodle.jpg in Resources */,
+				5EB87D5516EBE434005E3700 /* mail.google.com.png in Resources */,
+				5EB87D5716EBE454005E3700 /* mail.google.com2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
